@@ -1,0 +1,624 @@
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Neutral Good
+Strength: 16  Mod: 3
+Dexterity: 10  Mod: 0
+Constitution: 12  Mod: 1
+Intelligence: 15  Mod: 2
+Wisdom: 6  Mod: -2
+Charisma: 16  Mod: 3
+You start with 30gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Lawful Good
+Strength: 14  Mod: 2
+Dexterity: 12  Mod: 1
+Constitution: 15  Mod: 2
+Intelligence: 12  Mod: 1
+Wisdom: 11  Mod: 0
+Charisma: 13  Mod: 1
+You start with 100gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Lawful Evil
+Strength: 9  Mod: -1
+Dexterity: 10  Mod: 0
+Constitution: 9  Mod: -1
+Intelligence: 17  Mod: 3
+Wisdom: 13  Mod: 1
+Charisma: 16  Mod: 3
+You start with 140gp.
+
+
+Character Name: Jack
+Your Race is: Tiefling
+Your Class is: Barbarian
+Your Alignment is: Lawful Neutral
+Strength: 10  Mod: 0
+Dexterity: 10  Mod: 0
+Constitution: 15  Mod: 2
+Intelligence: 14  Mod: 2
+Wisdom: 17  Mod: 3
+Charisma: 16  Mod: 3
+You start with 140gp.
+
+
+Character Name: Jenny
+Your Race is: Orc
+Your Class is: Cleric
+Your Alignment is: Chaotic Good
+Strength: 14  Mod: 2
+Dexterity: 8  Mod: -1
+Constitution: 9  Mod: -1
+Intelligence: 15  Mod: 2
+Wisdom: 15  Mod: 2
+Charisma: 15  Mod: 2
+You start with 130gp.
+
+
+Character Name: 45
+Your Race is: Orc
+Your Class is: Warlock
+Your Alignment is: Chatoic Evil
+Strength: 17  Mod: 3
+Dexterity: 17  Mod: 3
+Constitution: 7  Mod: -2
+Intelligence: 9  Mod: -1
+Wisdom: 14  Mod: 2
+Charisma: 16  Mod: 3
+You start with 110gp.
+
+
+Character Name: 45
+Your Race is: Elf
+Your Class is: Barbarian
+Your Alignment is: Lawful Good
+Strength: 10  Mod: 0
+Dexterity: 16  Mod: 3
+Constitution: 12  Mod: 1
+Intelligence: 9  Mod: -1
+Wisdom: 13  Mod: 1
+Charisma: 14  Mod: 2
+You start with 100gp.
+
+
+Character Name: jack
+Your Race is: Tiefling
+Your Class is: Warlock
+Your Alignment is: Neutral Good
+Strength: 10  Mod: 0
+Dexterity: 8  Mod: -1
+Constitution: 15  Mod: 2
+Intelligence: 10  Mod: 0
+Wisdom: 9  Mod: -1
+Charisma: 16  Mod: 3
+You start with 120gp.
+
+
+Character Name: n
+Your Race is: Elf
+Your Class is: Warlock
+Your Alignment is: True Neutral
+Strength: 8  Mod: -1
+Dexterity: 12  Mod: 1
+Constitution: 14  Mod: 2
+Intelligence: 9  Mod: -1
+Wisdom: 9  Mod: -1
+Charisma: 9  Mod: -1
+You start with 70gp.
+
+
+Character Name: dsf
+Your Race is: Tiefling
+Your Class is: Bard
+Your Alignment is: Chaotic Neutral
+Strength: 15  Mod: 2
+Dexterity: 9  Mod: -1
+Constitution: 15  Mod: 2
+Intelligence: 14  Mod: 2
+Wisdom: 17  Mod: 3
+Charisma: 19  Mod: 4
+You start with 110gp.
+
+
+Character Name: 
+Your Race is: Tiefling
+Your Class is: Bard
+Your Alignment is: Chaotic Good
+Strength: 10  Mod: 0
+Dexterity: 13  Mod: 1
+Constitution: 9  Mod: -1
+Intelligence: 8  Mod: -1
+Wisdom: 6  Mod: -2
+Charisma: 17  Mod: 3
+You start with 70gp.
+
+
+Character Name: 
+Your Race is: Orc
+Your Class is: Cleric
+Your Alignment is: Neutral Evil
+Strength: 17  Mod: 3
+Dexterity: 16  Mod: 3
+Constitution: 13  Mod: 1
+Intelligence: 15  Mod: 2
+Wisdom: 13  Mod: 1
+Charisma: 14  Mod: 2
+You start with 150gp.
+
+
+Character Name: 
+Your Race is: Orc
+Your Class is: Warlock
+Your Alignment is: True Neutral
+Strength: 13  Mod: 1
+Dexterity: 14  Mod: 2
+Constitution: 11  Mod: 0
+Intelligence: 11  Mod: 0
+Wisdom: 12  Mod: 1
+Charisma: 13  Mod: 1
+You start with 60gp.
+
+
+Character Name: 
+Your Race is: Tiefling
+Your Class is: Warlock
+Your Alignment is: Lawful Good
+Strength: 13  Mod: 1
+Dexterity: 15  Mod: 2
+Constitution: 15  Mod: 2
+Intelligence: 16  Mod: 3
+Wisdom: 10  Mod: 0
+Charisma: 13  Mod: 1
+You start with 160gp.
+
+
+Character Name: 
+Your Race is: Tiefling
+Your Class is: Cleric
+Your Alignment is: Lawful Evil
+Strength: 15  Mod: 2
+Dexterity: 13  Mod: 1
+Constitution: 12  Mod: 1
+Intelligence: 13  Mod: 1
+Wisdom: 9  Mod: -1
+Charisma: 6  Mod: -2
+You start with 200gp.
+
+
+Character Name: 
+Your Race is: Orc
+Your Class is: Barbarian
+Your Alignment is: Chaotic Good
+Strength: 16  Mod: 3
+Dexterity: 8  Mod: -1
+Constitution: 12  Mod: 1
+Intelligence: 9  Mod: -1
+Wisdom: 12  Mod: 1
+Charisma: 13  Mod: 1
+You start with 130gp.
+
+
+Character Name: 
+Your Race is: Elf
+Your Class is: Warlock
+Your Alignment is: True Neutral
+Strength: 10  Mod: 0
+Dexterity: 13  Mod: 1
+Constitution: 10  Mod: 0
+Intelligence: 10  Mod: 0
+Wisdom: 13  Mod: 1
+Charisma: 18  Mod: 4
+You start with 70gp.
+
+
+Character Name: fg
+Your Race is: Orc
+Your Class is: Bard
+Your Alignment is: Neutral Good
+Strength: 17  Mod: 3
+Dexterity: 11  Mod: 0
+Constitution: 14  Mod: 2
+Intelligence: 12  Mod: 1
+Wisdom: 10  Mod: 0
+Charisma: 13  Mod: 1
+You start with 80gp.
+
+
+Character Name: jake
+Your Race is: Elf
+Your Class is: Barbarian
+Your Alignment is: Lawful Evil
+Strength: 12  Mod: 1
+Dexterity: 9  Mod: -1
+Constitution: 13  Mod: 1
+Intelligence: 12  Mod: 1
+Wisdom: 13  Mod: 1
+Charisma: 9  Mod: -1
+You start with 180gp.
+
+
+Character Name: 
+Your Race is: Half-Elf
+Your Class is: Warlock
+Your Alignment is: Neutral Evil
+Strength: 12  Mod: 1
+Dexterity: 18  Mod: 4
+Constitution: 13  Mod: 1
+Intelligence: 7  Mod: -2
+Wisdom: 12  Mod: 1
+Charisma: 16  Mod: 3
+You start with 130gp.
+
+
+Character Name: 
+Your Race is: Orc
+Your Class is: Druid
+Your Alignment is: Chaotic Neutral
+Strength: 17  Mod: 3
+Dexterity: 11  Mod: 0
+Constitution: 8  Mod: -1
+Intelligence: 10  Mod: 0
+Wisdom: 17  Mod: 3
+Charisma: 13  Mod: 1
+You start with 0gp.
+
+
+Character Name: 
+Your Race is: Elf
+Your Class is: Warlock
+Your Alignment is: Neutral Good
+Strength: 13  Mod: 1
+Dexterity: 14  Mod: 2
+Constitution: 15  Mod: 2
+Intelligence: 9  Mod: -1
+Wisdom: 7  Mod: -2
+Charisma: 8  Mod: -1
+You start with 100gp.
+
+
+Character Name: 
+Your Race is: Tiefling
+Your Class is: Bard
+Your Alignment is: Neutral Good
+Strength: 13  Mod: 1
+Dexterity: 17  Mod: 3
+Constitution: 8  Mod: -1
+Intelligence: 11  Mod: 0
+Wisdom: 10  Mod: 0
+Charisma: 15  Mod: 2
+You start with 140gp.
+
+
+Character Name: jack
+Your Race is: Half-Elf
+Your Class is: Barbarian
+Your Alignment is: Lawful Neutral
+Strength: 12  Mod: 1
+Dexterity: 15  Mod: 2
+Constitution: 15  Mod: 2
+Intelligence: 15  Mod: 2
+Wisdom: 14  Mod: 2
+Charisma: 12  Mod: 1
+You start with 160gp.
+
+
+Character Name: 
+Your Race is: Tiefling
+Your Class is: Barbarian
+Your Alignment is: Lawful Evil
+Strength: 6  Mod: -2
+Dexterity: 13  Mod: 1
+Constitution: 12  Mod: 1
+Intelligence: 13  Mod: 1
+Wisdom: 15  Mod: 2
+Charisma: 7  Mod: -2
+You start with 130gp.
+
+
+Character Name: 
+Your Race is: Elf
+Your Class is: Warlock
+Your Alignment is: Lawful Evil
+Strength: 16  Mod: 3
+Dexterity: 16  Mod: 3
+Constitution: 17  Mod: 3
+Intelligence: 17  Mod: 3
+Wisdom: 11  Mod: 0
+Charisma: 15  Mod: 2
+You start with 90gp.
+
+
+Character Name: 
+Your Race is: Dwarf
+Your Class is: Cleric
+Your Alignment is: Neutral Evil
+Strength: 8  Mod: -1
+Dexterity: 14  Mod: 2
+Constitution: 17  Mod: 3
+Intelligence: 8  Mod: -1
+Wisdom: 14  Mod: 2
+Charisma: 7  Mod: -2
+You start with 80gp.
+
+
+Character Name: 
+Your Race is: Orc
+Your Class is: Bard
+Your Alignment is: Lawful Neutral
+Strength: 18  Mod: 4
+Dexterity: 15  Mod: 2
+Constitution: 16  Mod: 3
+Intelligence: 6  Mod: -2
+Wisdom: 10  Mod: 0
+Charisma: 17  Mod: 3
+You start with 80gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Lawful Good
+Strength: 12  Mod: 1
+Dexterity: 17  Mod: 3
+Constitution: 10  Mod: 0
+Intelligence: 15  Mod: 2
+Wisdom: 8  Mod: -1
+Charisma: 10  Mod: 0
+You start with 100gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Lawful Good
+Strength: 13  Mod: 1
+Dexterity: 16  Mod: 3
+Constitution: 13  Mod: 1
+Intelligence: 13  Mod: 1
+Wisdom: 12  Mod: 1
+Charisma: 11  Mod: 0
+You start with 120gp.
+
+
+Character Name: 
+Your Race is: Tiefling
+Your Class is: Warlock
+Your Alignment is: Chaotic Good
+Strength: 13  Mod: 1
+Dexterity: 11  Mod: 0
+Constitution: 11  Mod: 0
+Intelligence: 13  Mod: 1
+Wisdom: 13  Mod: 1
+Charisma: 19  Mod: 4
+You start with 100gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Chaotic Good
+Strength: 15  Mod: 2
+Dexterity: 12  Mod: 1
+Constitution: 9  Mod: -1
+Intelligence: 14  Mod: 2
+Wisdom: 14  Mod: 2
+Charisma: 8  Mod: -1
+You start with 160gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Neutral Evil
+Strength: 12  Mod: 1
+Dexterity: 6  Mod: -2
+Constitution: 9  Mod: -1
+Intelligence: 15  Mod: 2
+Wisdom: 14  Mod: 2
+Charisma: 14  Mod: 2
+You start with 90gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Chaotic Good
+Strength: 16  Mod: 3
+Dexterity: 16  Mod: 3
+Constitution: 8  Mod: -1
+Intelligence: 15  Mod: 2
+Wisdom: 13  Mod: 1
+Charisma: 17  Mod: 3
+You start with 180gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Chatoic Evil
+Strength: 16  Mod: 3
+Dexterity: 10  Mod: 0
+Constitution: 12  Mod: 1
+Intelligence: 14  Mod: 2
+Wisdom: 6  Mod: -2
+Charisma: 15  Mod: 2
+You start with 130gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Chatoic Evil
+Strength: 13  Mod: 1
+Dexterity: 14  Mod: 2
+Constitution: 10  Mod: 0
+Intelligence: 14  Mod: 2
+Wisdom: 15  Mod: 2
+Charisma: 17  Mod: 3
+You start with 120gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Neutral Good
+Strength: 17  Mod: 3
+Dexterity: 6  Mod: -2
+Constitution: 13  Mod: 1
+Intelligence: 15  Mod: 2
+Wisdom: 18  Mod: 4
+Charisma: 14  Mod: 2
+You start with 140gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Lawful Neutral
+Strength: 19  Mod: 4
+Dexterity: 10  Mod: 0
+Constitution: 16  Mod: 3
+Intelligence: 12  Mod: 1
+Wisdom: 9  Mod: -1
+Charisma: 11  Mod: 0
+You start with 90gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Lawful Good
+Strength: 17  Mod: 3
+Dexterity: 17  Mod: 3
+Constitution: 14  Mod: 2
+Intelligence: 14  Mod: 2
+Wisdom: 12  Mod: 1
+Charisma: 17  Mod: 3
+You start with 190gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Lawful Neutral
+Strength: 16  Mod: 3
+Dexterity: 12  Mod: 1
+Constitution: 11  Mod: 0
+Intelligence: 18  Mod: 4
+Wisdom: 10  Mod: 0
+Charisma: 11  Mod: 0
+You start with 150gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: True Neutral
+Strength: 13  Mod: 1
+Dexterity: 11  Mod: 0
+Constitution: 16  Mod: 3
+Intelligence: 17  Mod: 3
+Wisdom: 14  Mod: 2
+Charisma: 15  Mod: 2
+You start with 150gp.
+
+
+Character Name: 
+Your Race is: Half-Elf
+Your Class is: Warlock
+Your Alignment is: Neutral Evil
+Strength: 12  Mod: 1
+Dexterity: 12  Mod: 1
+Constitution: 10  Mod: 0
+Intelligence: 15  Mod: 2
+Wisdom: 14  Mod: 2
+Charisma: 19  Mod: 4
+You start with 50gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Neutral Evil
+Strength: 14  Mod: 2
+Dexterity: 13  Mod: 1
+Constitution: 11  Mod: 0
+Intelligence: 17  Mod: 3
+Wisdom: 9  Mod: -1
+Charisma: 10  Mod: 0
+You start with 70gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Neutral Evil
+Strength: 15  Mod: 2
+Dexterity: 14  Mod: 2
+Constitution: 15  Mod: 2
+Intelligence: 11  Mod: 0
+Wisdom: 16  Mod: 3
+Charisma: 17  Mod: 3
+You start with 80gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: True Neutral
+Strength: 13  Mod: 1
+Dexterity: 16  Mod: 3
+Constitution: 9  Mod: -1
+Intelligence: 15  Mod: 2
+Wisdom: 11  Mod: 0
+Charisma: 14  Mod: 2
+You start with 130gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Neutral Good
+Strength: 15  Mod: 2
+Dexterity: 13  Mod: 1
+Constitution: 12  Mod: 1
+Intelligence: 13  Mod: 1
+Wisdom: 9  Mod: -1
+Charisma: 11  Mod: 0
+You start with 80gp.
+
+
+Character Name: 
+Your Race is: DragonBorn
+Your Class is: Ranger
+Your Alignment is: Chaotic Good
+Strength: 13  Mod: 1
+Dexterity: 15  Mod: 2
+Constitution: 11  Mod: 0
+Intelligence: 9  Mod: -1
+Wisdom: 12  Mod: 1
+Charisma: 17  Mod: 3
+You start with 160gp.
+
+
+Character Name: 
+Your Race is: Gnome
+Your Class is: Cleric
+Your Alignment is: Neutral Evil
+Strength: 6  Mod: -2
+Dexterity: 11  Mod: 0
+Constitution: 14  Mod: 2
+Intelligence: 14  Mod: 2
+Wisdom: 14  Mod: 2
+Charisma: 17  Mod: 3
+You start with 70gp.
+
+

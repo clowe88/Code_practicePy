@@ -15,237 +15,128 @@ def close():
     root.destroy()
 
 def goip():
-    ipoctet1, ipoctet2, ipoctet3, ipoctet4 = ipaddress.get().split(".")
-    suboctet1, suboctet2, suboctet3, suboctet4 = subnetmask.get().split(".")
+
+    global ipaddress, subnetmask
+
+    ip = ipaddress.get()
+    subn = subnetmask.get()
+
+    subnets, ipoctet1, ipoctet2, ipoctet3, ipoctet4, sub = subnetfinder(ip, subn)
+    sub = int(sub)
     
     widgets = root.pack_slaves()
     for w in widgets:
         w.destroy()
 
-    if int(suboctet1) != 255:
-        if int(suboctet1) == 254:
-            subnets = []
-            network = 0
-            cidr = 7
-            while network < 255:
-                subnets.append(network)
-                network = network + 2
-        elif int(suboctet1) == 252:
-            subnets = []
-            network = 0
-            cidr = 6
-            while network < 255:
-                subnets.append(network)
-                network = network + 4
-        elif int(suboctet1) == 248:
-            subnets = []
-            network = 0
-            cidr = 5
-            while network < 255:
-                subnets.append(network)
-                network = network + 8
-        elif int(suboctet1) == 240:
-            subnets = []
-            network = 0
-            cidr = 4
-            while network < 255:
-                subnets.append(network)
-                network = network + 16
-        elif int(suboctet1) == 224:
-            subnets = []
-            network = 0
-            cidr = 3
-            while network < 255:
-                subnets.append(network)
-                network = network + 32
-        elif int(suboctet1) == 192:
-            subnets = []
-            network = 0
-            cidr = 2
-            while network < 255:
-                subnets.append(network)
-                network = network + 64
-        elif int(suboctet1) == 128:
-            subnets = []
-            network = 0
-            cidr = 1
-            while network < 255:
-                subnets.append(network)
-                network = network + 128
-    elif int(suboctet2) != 255:
-        if int(suboctet2) == 254:
-            subnets = []
-            network = 0
-            cidr = 15
-            while network < 255:
-                subnets.append(network)
-                network = network + 2
-        elif int(suboctet2) == 252:
-            subnets = []
-            network = 0
-            cidr = 14
-            while network < 255:
-                subnets.append(network)
-                network = network + 4
-        elif int(suboctet2) == 248:
-            subnets = []
-            network = 0
-            cidr = 13
-            while network < 255:
-                subnets.append(network)
-                network = network + 8
-        elif int(suboctet2) == 240:
-            subnets = []
-            network = 0
-            cidr = 12
-            while network < 255:
-                subnets.append(network)
-                network = network + 16
-        elif int(suboctet2) == 224:
-            subnets = []
-            network = 0
-            cidr = 11
-            while network < 255:
-                subnets.append(network)
-                network = network + 32
-        elif int(suboctet2) == 192:
-            subnets = []
-            network = 0
-            cidr = 10
-            while network < 255:
-                subnets.append(network)
-                network = network + 64
-        elif int(suboctet2) == 128:
-            subnets = []
-            network = 0
-            cidr = 9
-            while network < 255:
-                subnets.append(network)
-                network = network + 128
-    elif int(suboctet3) != 255:
-        if int(suboctet3) == 254:
-            subnets = []
-            network = 0
-            cidr = 23
-            while network < 255:
-                subnets.append(network)
-                network = network + 2
-        elif int(suboctet3) == 252:
-            subnets = []
-            network = 0
-            cidr = 22
-            while network < 255:
-                subnets.append(network)
-                network = network + 4
-        elif int(suboctet3) == 248:
-            subnets = []
-            network = 0
-            cidr = 21
-            while network < 255:
-                subnets.append(network)
-                network = network + 8
-        elif int(suboctet3) == 240:
-            subnets = []
-            network = 0
-            cidr = 20
-            while network < 255:
-                subnets.append(network)
-                network = network + 16
-        elif int(suboctet3) == 224:
-            subnets = []
-            network = 0
-            cidr = 19
-            while network < 255:
-                subnets.append(network)
-                network = network + 32
-        elif int(suboctet3) == 192:
-            subnets = []
-            network = 0
-            cidr = 18
-            while network < 255:
-                subnets.append(network)
-                network = network + 64
-        elif int(suboctet3) == 128:
-            subnets = []
-            network = 0
-            cidr = 17
-            while network < 255:
-                subnets.append(network)
-                network = network + 128
-    elif int(suboctet4) != 255:
-        if int(suboctet4) == 254:
-            subnets = []
-            network = 0
-            cidr = 31
-            while network < 255:
-                subnets.append(network)
-                network = network + 2
-        elif int(suboctet4) == 252:
-            subnets = []
-            network = 0
-            cidr = 30
-            while network < 255:
-                subnets.append(network)
-                network = network + 4
-        elif int(suboctet4) == 248:
-            subnets = []
-            network = 0
-            cidr = 29
-            while network < 255:
-                subnets.append(network)
-                network = network + 8
-        elif int(suboctet4) == 240:
-            subnets = []
-            network = 0
-            cidr = 28
-            while network < 255:
-                subnets.append(network)
-                network = network + 16
-        elif int(suboctet4) == 224:
-            subnets = []
-            network = 0
-            cidr = 27
-            while network < 255:
-                subnets.append(network)
-                network = network + 32
-        elif int(suboctet4) == 192:
-            subnets = []
-            network = 0
-            cidr = 26
-            while network < 255:
-                subnets.append(network)
-                network = network + 64
-        elif int(suboctet4) == 128:
-            subnets = []
-            network = 0
-            cidr = 25
-            while network < 255:
-                subnets.append(network)
-                network = network + 128
+    x = 0
 
-    Label(root,text="CIDR: /" + str(cidr)).pack(side=TOP)
-
-    if suboctet1 != 255:
-        x=0
-        for i in subnets:
-            Label(root, text=str(subnets[x]) + ".0.0.0").pack()
-            x = x+1
-    elif suboctet2 != 255:
-        x=0
-        for i in subnets:
-            Label(root, text=ipoctet1 + "." + str(subnets[x]) + ".0.0").pack()
-            x = x+1
-    elif suboctet3 != 255:
-        x=0
-        for i in subnets:
-            Label(root, text=ipoctet1 + "." + ipoctet2 + "." + str(subnets[x]) + ".0").pack()
-            x = x+1
-    elif suboctet4 != 255:
-        x=0
-        for i in subnets:
-            Label(root, text=ipoctet1 + "." + ipoctet2 + "." + ipoctet3 + "." + str(subnets[x])).pack()
-            x = x+1
+    for i in subnets:
+        if sub == 1:
+            if int(ipoctet1) >= int(i) and int(ipoctet1) < int(subnets[x+1]):
+                Label(root, text=str(str(subnets[x]) + ".0.0.0"), bg="yellow").pack()
+                x += 1
+            else:
+                Label(root, text=str(str(subnets[x]) + ".0.0.0")).pack()
+                x +=1
+        elif sub == 2:
+            if int(ipoctet2) >= int(i) and int(ipoctet2) < int(subnets[x+1]):
+                Label(root, text=str(str(ipoctet1) + "." + str(subnets[x]) + ".0.0"), bg="yellow").pack()
+                x += 1
+            else:
+                Label(root, text=str(str(ipoctet1) + "." + str(subnets[x]) + ".0.0")).pack()
+                x +=1
+        elif sub == 3:
+            if int(ipoctet3) >= int(i) and int(ipoctet3) < int(subnets[x+1]):
+                Label(root, text=str(str(ipoctet1) + "." + str(ipoctet2) + "." + str(subnets[x]) + ".0"), bg="yellow").pack()
+                x += 1
+            else:
+                Label(root, text=str(str(ipoctet1) + "." + str(ipoctet2) + "." + str(subnets[x]) + ".0")).pack()
+                x +=1
+        elif sub == 4:
+            if int(ipoctet4) >= int(i) and int(ipoctet4) < int(subnets[x+1]):
+                Label(root, text=str(str(ipoctet1) + "." + str(ipoctet2) + "." + str(ipoctet3) + "." + str(subnets[x])), bg="yellow").pack()
+                x += 1
+            else:
+                Label(root, text=str(str(ipoctet1) + "." + str(ipoctet2) + "." + str(ipoctet3) + "." + str(subnets[x]))).pack()
+                x +=1
+       
 
     btnclose = Button(root, text="Exit", command=lambda:close()).pack()
+
+def subnetfinder(ip, subn):
+
+    ipoctet1, ipoctet2, ipoctet3, ipoctet4 = str(ip).split(".")
+    suboctet1, suboctet2, suboctet3, suboctet4 = str(subn).split(".")
+
+    if int(suboctet1) == 255 or int(suboctet1) == 0:
+        pass
+    else:
+        suboctet = suboctet1
+        sub = 1
+
+    if int(suboctet2) == 255 or int(suboctet2) == 0:
+        pass
+    else:
+        suboctet = suboctet2
+        sub = 2
+
+    if int(suboctet3) == 255 or int(suboctet3) == 0:
+        pass
+    else:
+        suboctet = suboctet3
+        sub = 3
+
+    if int(suboctet4) == 255 or int(suboctet4) == 0: 
+        pass
+    else:
+        suboctet = suboctet4
+        sub = 4
+
+    if int(suboctet) == 254:
+        subnets = []
+        network = 0
+        while network < 255:
+            subnets.append(network)
+            network = network + 2
+    elif int(suboctet) == 252:
+        subnets = []
+        network = 0
+        while network < 255:
+            subnets.append(network)
+            network = network + 4
+    elif int(suboctet) == 248:
+        subnets = []
+        network = 0
+        while network < 255:
+            subnets.append(network)
+            network = network + 8
+    elif int(suboctet) == 240:
+        subnets = []
+        network = 0
+        while network < 255:
+            subnets.append(network)
+            network = network + 16
+    elif int(suboctet) == 224:
+        subnets = []
+        network = 0
+        while network < 255:
+            subnets.append(network)
+            network = network + 32
+    elif int(suboctet) == 192:
+        subnets = []
+        network = 0
+        while network < 255:
+            subnets.append(network)
+            network = network + 64
+    elif int(suboctet) == 128:
+        subnets = []
+        network = 0
+        while network < 255:
+            subnets.append(network)
+            network = network + 128
+
+    print (subnets)
+
+    return (subnets, ipoctet1, ipoctet2, ipoctet3, ipoctet4, sub)
 
 root.mainloop()
